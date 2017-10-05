@@ -20,6 +20,7 @@ class Factory {
      */
     Stock destinationStock = new Stock("destin", 0);
     /**
+     * 
      * processing workshops
      */
     Workshop workshop1 = new Workshop(sourceStock, destinationStock, 5);
